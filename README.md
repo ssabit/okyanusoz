@@ -1,7 +1,14 @@
-### Hi there 👋 I am Okyanus
+### Hi there 👋
 
-## Some cool stats:
-![My stats](https://github-readme-stats.vercel.app/api?username=okyanusoz)
+I'm Okyanus. 
 
-## My top languages:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyanusoz&theme=dark" />
+I'm a web developer that strongly believes in the Web. In my opinion, the Web has great potential.
+
+My favorite languages and frameworks are:
+- JS for quick frontends
+- TypeScript + Next.js for complex apps
+- Python for basic scripting and ML
+
+I also believe in open source. I think there's a lot to learn from production software.
+
+Happy browsing!
